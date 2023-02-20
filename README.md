@@ -13,7 +13,7 @@ For example,
 ![image description](image.png)
 
 
-the input for this puzzle should be:
+\nthe input for this puzzle should be:
 
 ```
 0 6 0 0 0 0 0 1 0
