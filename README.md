@@ -10,10 +10,12 @@ Compile and run the program.
 To enter the puzzle, enter the numbers in each row one by one from top to bottom and replace the unknown numbers with 0.
 
 For example,
+
+
 ![image description](image.png)
 
 
-\nthe input for this puzzle should be:
+the input for this puzzle should be:
 
 ```
 0 6 0 0 0 0 0 1 0
