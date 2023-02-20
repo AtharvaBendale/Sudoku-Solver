@@ -10,7 +10,7 @@ Compile and run the program.
 To enter the puzzle, enter the numbers in each row one by one from top to bottom and replace the unknown numbers with 0.
 
 For example,
-![image description](sudoku.png)
+![image description](image.png)
 the input for this puzzle should be:
 
 ```
