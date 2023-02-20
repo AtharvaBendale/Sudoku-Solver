@@ -1,9 +1,9 @@
 /* 
-    AUTHOR : Atharva bendale
+    AUTHOR : ATHARVA BENDALE
 */
 
 /*
-This program prints one of the possible solutions of a given sudoku puzzle ( as there can be multiple possible soltuions).
+This program prints one of the possible solutions of a given sudoku puzzle ( as there can be multiple possible solutions ).
 This prints "No solution" if there are no possible solutions.
 */
 
