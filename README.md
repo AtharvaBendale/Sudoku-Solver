@@ -11,6 +11,8 @@ To enter the puzzle, enter the numbers in each row one by one from top to bottom
 
 For example,
 ![image description](image.png)
+
+
 the input for this puzzle should be:
 
 ```
