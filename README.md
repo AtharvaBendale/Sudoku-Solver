@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-This program solves a given Sudoku puzzle and prints out the solution.
+This program solves a given Sudoku puzzle using recursive backtracking and prints out the solution.
 If the puzzle have no solutions, the program prints "No solutions".
 
 ## How to Use
