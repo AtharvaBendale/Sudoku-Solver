@@ -3,7 +3,7 @@
 This program solves a given Sudoku puzzle and prints out the solution.
 If the puzzle have no solutions, the program prints "No solutions".
 
-## Usage Instructions
+## How to Use
 
 Compile and run the program.
 
